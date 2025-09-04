@@ -5,7 +5,7 @@
 - Built optimized images using multi-stage builds.
 - Worked with Docker Compose for orchestrating multi-container applications.
 - Pushed and pulled images from Docker Hub.
-- Performed image scanning with tools like Trivy for vulnerabilities.
+- Performed container vulnerability scans with **Trivy**.
 - Debugged containers with `docker exec` and logs.
 
 ## Example Dockerfile
