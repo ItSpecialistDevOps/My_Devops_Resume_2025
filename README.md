@@ -1,32 +1,41 @@
-# Extended Technical Expertise  
+# 🚀 DevOps Engineer Portfolio
 
-## Docker  
-- Created custom Dockerfiles for application images.  
-- Worked with Docker Compose for multi-container apps.  
-- Pushed and pulled container images from Docker Hub.  
-- Performed image scanning for security vulnerabilities.  
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
+  <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aqua&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
 
-## Kubernetes  
-- Wrote Kubernetes manifests (YAML) for deployments, services, and config maps.  
-- Used kubectl to manage pods, services, and namespaces.  
-- Implemented rolling updates and rollback strategies.  
-- Deployed applications in AKS with persistent volumes and autoscaling.  
+---
 
-## Git & GitHub  
-- Cloned, branched, merged, and resolved Git conflicts.  
-- Managed pull requests and code reviews in GitHub.  
-- Used Git hooks and Git ignore files.  
-- Integrated Git repositories with Jenkins Pipelines.  
+## 👋 About Me
+DevOps Enthusiast with hands-on experience in:
+- **Docker**: Containerization & image optimization  
+- **Kubernetes (Minikube & AKS)**: Deployment & scaling  
+- **Jenkins**: CI/CD pipelines with GitHub integration  
+- **SonarQube**: Static code analysis for code quality & security  
+- **Trivy**: Container vulnerability scanning (DevSecOps)  
+- **Git & GitHub**: Version control & collaboration  
 
-## Projects & Hands-on Experience  
-### CI/CD Pipeline with Jenkins and GitHub  
-- Created automated pipelines in Jenkins to build, test, and deploy applications stored in GitHub repositories.  
+## 🔥 Highlighted Projects
+- 📝 **To-Do App** → Dockerized Angular app, deployed on Kubernetes  
+- ⚙️ **MyNewProject** → Jenkins CI/CD pipeline with Docker, SonarQube, Trivy  
+- 🏗️ **Jenkinsfile Project** → Centralized Jenkins pipeline automation  
+- 🔐 **DevSecOps** → Integrated security checks with SonarQube + Trivy  
 
-### Dockerized Applications  
-- Containerized Node.js and Python applications using Docker and pushed images to Docker Hub.  
+👉 [Check detailed project files here](Projects.md)
 
-### Kubernetes Deployment on AKS  
-- Deployed containerized apps on Azure Kubernetes Service using kubectl and YAML manifests.  
+## 📖 Detailed Extended Expertise
+For recruiters/technical reviewers who prefer a structured, resume-style breakdown:  
+👉 [Extended Expertise](Extended_Expertise.md)
 
-### Azure DevOps CI/CD  
-- Configured build and release pipelines in Azure DevOps for seamless deployment to Azure Web Apps.  
+---
+
+## 📫 Contact 
+- **GitHub**: [ItSpecialistDevOps](https://github.com/ItSpecialistDevOps)  
+- **Email**: beitdevopsengineer2025@gmail.com  
+
