@@ -1,4 +1,4 @@
-### 4. **Projects.md**
+**Projects.md**
 ```markdown
 # Projects & Hands-on Experience
 
@@ -29,3 +29,10 @@ Each project has its own file for detailed explanation.
 - Removed duplicate Jenkinsfile from project subfolder.
 
 [Read More → JenkinsfileProject.md](JenkinsfileProject.md)
+
+## 🔹 Security in DevOps
+- Integrated **SonarQube** for code analysis.
+- Used **Trivy** for container image vulnerability scanning.
+- Automated scanning in CI/CD pipelines.
+
+[Read More → Security_DevOps.md](Security_DevOps.md)
